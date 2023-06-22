@@ -1,5 +1,5 @@
 delete ./
-add mod.ini
+add test_folder
 
 add options.json
 add mod.ini
