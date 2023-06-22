@@ -80,10 +80,10 @@ add boss_hyper_frontiers/raw/character/supersonic.pac
 
 add boss_soap_super_frontiers/raw/character/supersonic.pac
 
-add hyper_eye_cyan/raw/mis/trr_common_texture.pac
-add hyper_eye_green/raw/mis/trr_common_texture.pac
-add hyper_eye_magenta/raw/mis/trr_common_texture.pac
-add hyper_eye_red/raw/mis/trr_common_texture.pac
+add hyper_eye_cyan/raw/misc/trr_common_texture.pac
+add hyper_eye_green/raw/misc/trr_common_texture.pac
+add hyper_eye_magenta/raw/misc/trr_common_texture.pac
+add hyper_eye_red/raw/misc/trr_common_texture.pac
 
 add main/raw/boss/knight.pac
 add main/raw/character/sonic.pac
