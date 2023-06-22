@@ -131,7 +131,7 @@ add code2.hmm
 add code3.hmm
 add Transformation.CT
 
-add /dummy
+add dummy/dummy.txt
 
 add options.json
 add mod.ini
