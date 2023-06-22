@@ -36,6 +36,8 @@ delete soap_boss_hyper_frontiers/
 delete open_super/
 
 delete open_super_classic/
+delete eye_tex/
+delete phys_cyber_space_off/
 
 delete alternate
 delete default
