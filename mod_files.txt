@@ -1,50 +1,41 @@
-delete boss_hyper_adventure/raw/boss/knight01.pac
-delete boss_hyper_adventure/raw/EffectCommon.pac
-delete boss_hyper_adventure/raw/event/scene/bo1xxx.pac
-delete boss_hyper_adventure/raw/event/scene/bo3xxx.pac
-delete boss_hyper_adventure/raw/event/scene/zev_knight_atk_sp01.pac
-delete boss_hyper_adventure/raw/event/scene/zev_knight_sonic_damage01.pac
-delete boss_hyper_adventure/raw/event/scene/zev_knight_sonic_sp01.pac
-delete boss_hyper_adventure/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+delete boss_c_hyper_adventure/
 
-delete boss_hyper_frontiers/raw/boss/knight01.pac
-delete boss_hyper_frontiers/raw/EffectCommon.pac
-delete boss_hyper_frontiers/raw/event/scene/bo1xxx.pac
-delete boss_hyper_frontiers/raw/event/scene/bo3xxx.pac
-delete boss_hyper_frontiers/raw/event/scene/zev_knight_atk_sp01.pac
-delete boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_damage01.pac
-delete boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_sp01.pac
-delete boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_c_hyper_frontiers/
 
-delete soap_boss_hyper_adventure/raw/boss/knight01.pac
-delete soap_boss_hyper_adventure/raw/EffectCommon.pac
-delete soap_boss_hyper_adventure/raw/event/scene/bo1xxx.pac
-delete soap_boss_hyper_adventure/raw/event/scene/bo3xxx.pac
-delete soap_boss_hyper_adventure/raw/event/scene/zev_knight_atk_sp01.pac
-delete soap_boss_hyper_adventure/raw/event/scene/zev_knight_sonic_damage01.pac
-delete soap_boss_hyper_adventure/raw/event/scene/zev_knight_sonic_sp01.pac
-delete soap_boss_hyper_adventure/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_hyper_adventure/
 
-delete soap_boss_hyper_frontiers/raw/boss/knight01.pac
-delete soap_boss_hyper_frontiers/raw/EffectCommon.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/bo1xxx.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/bo3xxx.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/zev_knight_atk_sp01.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_damage01.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_sp01.pac
-delete soap_boss_hyper_frontiers/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_hyper_frontiers/
 
-delete open_super/raw/dlc/dlccrm/dlccrm.pac
-delete open_super/raw/dlc/dlcddx/dlcddx.pac
-delete open_super/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
-delete open_super/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
-delete open_super/raw/dlc/dlcxmas.dlcxmas.pac
+add soap_boss_c_hyper_adventure/
 
-delete open_super_classic/raw/dlc/dlccrm/dlccrm.pac
-delete open_super_classic/raw/dlc/dlcddx/dlcddx.pac
-delete open_super_classic/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
-delete open_super_classic/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
-delete open_super_classic/raw/dlc/dlcxmas.dlcxmas.pac
+add soap_boss_c_hyper_frontiers/
+
+add soap_boss_hyper_frontiers/
+
+add soap_boss_hyper_adventure/
+
+add open_super/
+
+add phys_alt/
+add phys_default/
+
+add main/
+
+add open_super_adventure/
+
+add open_super_adventure_classic/
+
+delete boss_hyper_adventure/
+
+delete boss_hyper_frontiers/
+
+delete soap_boss_hyper_adventure/
+
+delete soap_boss_hyper_frontiers/
+
+delete open_super/
+
+delete open_super_classic/
 
 delete alternate
 delete default
