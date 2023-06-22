@@ -1,29 +1,29 @@
 delete boss_c_hyper_adventure/
 
-add boss_c_hyper_frontiers/
+delete boss_c_hyper_frontiers/
 
-add boss_hyper_adventure/
+delete boss_hyper_adventure/
 
-add boss_hyper_frontiers/
+delete boss_hyper_frontiers/
 
-add soap_boss_c_hyper_adventure/
+delete soap_boss_c_hyper_adventure/
 
-add soap_boss_c_hyper_frontiers/
+delete soap_boss_c_hyper_frontiers/
 
-add soap_boss_hyper_frontiers/
+delete soap_boss_hyper_frontiers/
 
-add soap_boss_hyper_adventure/
+delete soap_boss_hyper_adventure/
 
-add open_super/
+delete open_super/
 
-add phys_alt/
-add phys_default/
+delete phys_alt/
+delete phys_default/
 
-add main/
+delete main/
 
-add open_super_adventure/
+delete open_super_adventure/
 
-add open_super_adventure_classic/
+delete open_super_adventure_classic/
 
 delete boss_hyper_adventure/
 
