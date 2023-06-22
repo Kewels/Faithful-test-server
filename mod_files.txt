@@ -49,18 +49,18 @@ delete soap_boss_hyper_adventure/raw/boss/knight01.pac
 delete boss_hyper_adventure/raw/boss/knight01.pac
 delete boss_hyper_frontiers/raw/boss/knight01.pac
 
-add eye_tex/cyan/chr_supersonic_eye_abd.dds
-add eye_tex/green/chr_supersonic_eye_abd.dds
-add eye_tex/red/chr_supersonic_eye_abd.dds
-add eye_tex/magenta/chr_supersonic_eye_abd.dds
+delete eye_tex/cyan/chr_supersonic_eye_abd.dds
+delete eye_tex/green/chr_supersonic_eye_abd.dds
+delete eye_tex/red/chr_supersonic_eye_abd.dds
+delete eye_tex/magenta/chr_supersonic_eye_abd.dds
 
-add HedgeArcPackFrontiers0.exe
-add HedgeArcPackFrontiers1.exe
-add HedgeArcPackFrontiers2.exe
-add HedgeArcPackFrontiers3.exe
-add run_to_change_eye_colors.bat
+delete HedgeArcPackFrontiers0.exe
+delete HedgeArcPackFrontiers1.exe
+delete HedgeArcPackFrontiers2.exe
+delete HedgeArcPackFrontiers3.exe
+delete run_to_change_eye_colors.bat
 
-add phys_cyber_space_off/raw/character/playercommon.pac
+delete phys_cyber_space_off/raw/character/playercommon.pac
 
 add options.json
 add mod.ini
