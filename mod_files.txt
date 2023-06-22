@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 delete boss_c_hyper_adventure/
 
 delete boss_c_hyper_frontiers/
@@ -130,7 +131,7 @@ add code2.hmm
 add code3.hmm
 add Transformation.CT
 
-add dummy
+add dummy/
 
 add options.json
 add mod.ini
