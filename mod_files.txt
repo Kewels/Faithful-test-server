@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 delete boss_c_hyper_adventure/
 
 delete boss_c_hyper_frontiers/
