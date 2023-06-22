@@ -125,6 +125,7 @@ add open_super_adventure/raw/dlc/dlcxmas/dlcxmas.pac
 add phys_alt/raw/character/playercommon.pac
 add phys_default/raw/miniboss/flyer01.pac
 add phys_default/raw/miniboss/warship01.pac
+add phys_default/raw/character/playercommon.pac
 
 add code.hmm
 add code2.hmm
