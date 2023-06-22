@@ -130,7 +130,7 @@ delete HedgeArcPackFrontiers2.exe
 delete HedgeArcPackFrontiers3.exe
 delete run_to_change_eye_colors.bat
 
-delete phys_cyber_space_off/raw/character/playercommon.pac
+add phys_cyber_space_off/raw/character/playercommon.pac
 
-delete options.json
-delete mod.ini
+add options.json
+add mod.ini
