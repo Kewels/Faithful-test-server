@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 delete boss_c_hyper_adventure/
 
 delete boss_c_hyper_frontiers/
@@ -86,7 +85,8 @@ add hyper_eye_green/raw/misc/trr_common_texture.pac
 add hyper_eye_magenta/raw/misc/trr_common_texture.pac
 add hyper_eye_red/raw/misc/trr_common_texture.pac
 
-add main/raw/boss/knight.pac
+
+add main/raw/boss/knight01.pac
 add main/raw/character/sonic.pac
 
 add main/raw/dlc/dlccrm/dlccrm.pac
@@ -114,7 +114,7 @@ add main/raw/ui/ui_gamemodestage.pac
 
 add main/raw/EventCommon.pac
 
-add open_super_adventure/raw/sonic.pac
+add open_super_adventure/raw/character/sonic.pac
 
 add open_super_adventure/raw/dlc/dlccrm/dlccrm.pac
 add open_super_adventure/raw/dlc/dlcddx/dlcddx.pac

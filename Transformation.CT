@@ -6,8 +6,7 @@
       <Description>"Activate Super Sonic"</Description>
       <Color>00FF00</Color>
       <VariableType>Auto Assembler Script</VariableType>
-      <AssemblerScript>
-[ENABLE]
+      <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
 
 alloc(newmem0,128,"SonicFrontiers.exe"+CF932E1)
@@ -507,6 +506,24 @@ movss xmm9,[SonicFrontiers.exe+10B6D00]
               <Value>50</Value>
               <ID>3</ID>
             </Hotkey>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>22531</Key>
+                <Key>22544</Key>
+              </Keys>
+              <Value>50</Value>
+              <ID>4</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Decrease Value</Action>
+              <Keys>
+                <Key>22531</Key>
+                <Key>22545</Key>
+              </Keys>
+              <Value>50</Value>
+              <ID>5</ID>
+            </Hotkey>
           </Hotkeys>
         </CheatEntry>
       </CheatEntries>
@@ -523,7 +540,7 @@ movss xmm9,[SonicFrontiers.exe+10B6D00]
     </SymbolEntry>
     <SymbolEntry>
       <Name>rings</Name>
-      <Address>00730120</Address>
+      <Address>488B0120</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>portalgear</Name>
@@ -543,15 +560,15 @@ movss xmm9,[SonicFrontiers.exe+10B6D00]
     </SymbolEntry>
     <SymbolEntry>
       <Name>cnt</Name>
-      <Address>00730000</Address>
+      <Address>488B0000</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>newthread</Name>
-      <Address>00730010</Address>
+      <Address>488B0010</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>yspeed</Name>
-      <Address>00730110</Address>
+      <Address>488B0110</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>yspeed2</Name>
