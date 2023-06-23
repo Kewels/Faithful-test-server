@@ -86,7 +86,7 @@ add hyper_eye_green/raw/misc/trr_common_texture.pac
 add hyper_eye_magenta/raw/misc/trr_common_texture.pac
 add hyper_eye_red/raw/misc/trr_common_texture.pac
 
-add main/raw/boss/knight.pac
+add main/raw/boss/knight01.pac
 add main/raw/character/sonic.pac
 
 add main/raw/dlc/dlccrm/dlccrm.pac
