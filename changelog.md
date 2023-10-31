@@ -1,3 +1,6 @@
+## Super/Hyper Sonic Ultimate - Final Horizon Update
+- Many things
+
 ## Super/Hyper Sonic Faithful 2.6.9-rev5
 - Fixes an oversight that made the cyloop color blue when custom physics are turned off.  Thank you Sandpie for pointing this out! :)
 
