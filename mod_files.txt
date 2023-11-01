@@ -1,6 +1,5 @@
-delete ./
-add "/Super_Hyper Sonic Ultimate - Final Horizon Update"
-
+delete /aura_color
+add /hyper_look_colorful
 
 add raw/NeedleShader2.pac
 
