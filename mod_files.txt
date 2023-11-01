@@ -16,14 +16,6 @@ delete boss_soap_hyper_frontiers/
 
 delete boss_soap_hyper_adventure/
 
-delete aura_color
-
-delete aura_cyan
-
-delete aura_ss
-
-delete aura_stars
-
 delete open_super/
 
 delete phys_alt/
@@ -91,6 +83,11 @@ delete phys_default
 delete code.hmm
 delete code2.hmm
 delete code3.hmm
+
+delete aura_color
+delete aure_cyan
+delete aura_ss
+delete aura_stars
 
 add boss_hyper/raw/character/supersonic.pac
 add boss_hyper/raw/event/scene/bo1xxx.pac
