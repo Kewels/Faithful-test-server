@@ -10,9 +10,9 @@ delete soap_boss_c_hyper_adventure/
 
 delete soap_boss_c_hyper_frontiers/
 
-delete soap_boss_hyper_frontiers/
+delete boss_soap_hyper_frontiers/
 
-delete soap_boss_hyper_adventure/
+delete boss_soap_hyper_adventure/
 
 delete open_super/
 
@@ -29,7 +29,7 @@ delete boss_hyper_adventure/
 
 delete boss_hyper_frontiers/
 
-delete soap_boss_hyper_adventure/
+delete boss_soap_hyper_adventure/
 
 delete soap_boss_hyper_frontiers/
 
@@ -51,6 +51,8 @@ delete soap_boss_hyper_adventure/raw/boss/knight01.pac
 delete boss_hyper_adventure/raw/boss/knight01.pac
 delete boss_hyper_frontiers/raw/boss/knight01.pac
 
+delete dummy
+
 delete eye_tex/
 
 delete HedgeArcPackFrontiers0.exe
@@ -61,7 +63,8 @@ delete run_to_change_eye_colors.bat
 
 delete phys_cyber_space_off/raw/character/playercommon.pac
 
-delete dummy
+delete Transformation.CT
+
 delete aura_color
 delete aura_cyan
 delete aura_ss
