@@ -1,5 +1,5 @@
 delete ./
-add "./Super_Hyper Sonic Ultimate - Final Horizon Update"
+add "/Super_Hyper Sonic Ultimate - Final Horizon Update"
 
 
 add raw/NeedleShader2.pac
