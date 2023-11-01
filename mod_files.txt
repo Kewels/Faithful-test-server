@@ -1,2 +1,17 @@
+delete dummy
+delete aura_color
+delete aura_cyan
+delete aura_ss
+delete aura_stars
+delete boss_hyper_adventure
+delete boss_hyper_frontiers
+delete boss_soap_hyper_frontiers
+delete boss_soap_hyper_adventure
+delete boss_soap_super_frontiers
+delete main
+delete open_super_adventure
+delete phys_alt
+delete phys_default
+
 add options.json
 add mod.ini
