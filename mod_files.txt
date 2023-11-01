@@ -10,6 +10,8 @@ delete soap_boss_c_hyper_adventure/
 
 delete soap_boss_c_hyper_frontiers/
 
+delete boss_soap_super_frontiers/
+
 delete boss_soap_hyper_frontiers/
 
 delete boss_soap_hyper_adventure/
