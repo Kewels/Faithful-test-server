@@ -17,8 +17,11 @@ delete boss_soap_hyper_frontiers/
 delete boss_soap_hyper_adventure/
 
 delete aura_color
+
 delete aura_cyan
+
 delete aura_ss
+
 delete aura_stars
 
 delete open_super/
