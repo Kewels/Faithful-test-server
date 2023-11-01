@@ -13,6 +13,10 @@ delete open_super_adventure
 delete phys_alt
 delete phys_default
 
+delete code.hmm
+delete code2.hmm
+delete code3.hmm
+
 add boss_hyper/raw/character/supersonic.pac
 add boss_hyper/raw/event/scene/bo1xxx.pac
 add boss_hyper/raw/event/scene/bo3xxx.pac
