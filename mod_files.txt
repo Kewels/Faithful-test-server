@@ -80,8 +80,6 @@ delete code.hmm
 delete code2.hmm
 delete code3.hmm
 
-delete ./
-
 add boss_hyper/raw/character/supersonic.pac
 add boss_hyper/raw/event/scene/bo1xxx.pac
 add boss_hyper/raw/event/scene/bo3xxx.pac
