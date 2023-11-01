@@ -16,6 +16,11 @@ delete boss_soap_hyper_frontiers/
 
 delete boss_soap_hyper_adventure/
 
+delete aura_color
+delete aura_cyan
+delete aura_ss
+delete aura_stars
+
 delete open_super/
 
 delete phys_alt/
@@ -40,6 +45,8 @@ delete open_super/
 delete open_super_classic/
 delete eye_tex/
 delete phys_cyber_space_off/
+
+delete options.json
 
 delete alternate
 delete default
@@ -67,10 +74,7 @@ delete phys_cyber_space_off/raw/character/playercommon.pac
 
 delete Transformation.CT
 
-delete aura_color
-delete aura_cyan
-delete aura_ss
-delete aura_stars
+
 delete boss_hyper_adventure
 delete boss_hyper_frontiers
 delete boss_soap_hyper_frontiers
