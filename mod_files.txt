@@ -13,5 +13,119 @@ delete open_super_adventure
 delete phys_alt
 delete phys_default
 
+add boss_hyper/raw/character/supersonic.pac
+add boss_hyper/raw/event/scene/bo1xxx.pac
+add boss_hyper/raw/event/scene/bo3xxx.pac
+add boss_hyper/raw/event/scene/zev_knight_atk_sp01.pac
+add boss_hyper/raw/event/scene/zev_knight_sonic_damage01.pac
+add boss_hyper/raw/event/scene/zev_knight_sonic_sp01.pac
+add boss_hyper/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_hyper/raw/event/scene/zev_rfl_shoot02.pac
+
+add boss_hyper_2_cyan/raw/character/supersonic.pac
+add boss_hyper_2_cyan/raw/event/scene/bo1xxx.pac
+add boss_hyper_2_cyan/raw/event/scene/bo3xxx.pac
+add boss_hyper_2_cyan/raw/event/scene/zev_knight_atk_sp01.pac
+add boss_hyper_2_cyan/raw/event/scene/zev_knight_sonic_damage01.pac
+add boss_hyper_2_cyan/raw/event/scene/zev_knight_sonic_sp01.pac
+add boss_hyper_2_cyan/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_hyper_2_cyan/raw/event/scene/zev_rfl_shoot02.pac
+
+add boss_hyper_cc/raw/character/supersonic.pac
+add boss_hyper_cc/raw/event/scene/bo1xxx.pac
+add boss_hyper_cc/raw/event/scene/bo3xxx.pac
+add boss_hyper_cc/raw/event/scene/zev_knight_atk_sp01.pac
+add boss_hyper_cc/raw/event/scene/zev_knight_sonic_damage01.pac
+add boss_hyper_cc/raw/event/scene/zev_knight_sonic_sp01.pac
+add boss_hyper_cc/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+add boss_hyper_cc/raw/event/scene/zev_rfl_shoot02.pac
+add boss_super/raw/character/supersonic.pac
+
+add final_hyper_2/raw/character/playercommon.pac
+add final_hyper_2/raw/character/supersonic2.pac
+
+add final_hyper_2_cc/raw/character/supersonic2.pac
+
+add final_super_2/raw/character/supersonic2.pac
+
+add hyper_eye_cyan/raw/text/text_common.pac
+add hyper_eye_green/raw/text/text_common.pac
+add hyper_eye_magenta/raw/text/text_common.pac
+add hyper_eye_red/raw/text/text_common.pac
+
+add hyper_look_colorful/raw/misc/trr_common_texture.pac
+add hyper_look_colorful/raw/EventCommon.pac
+
+add hyper_look_cyan/raw/misc/trr_common_texture.pac
+add hyper_look_cyan/raw/EventCommon.pac
+
+add hyper_look_stars/raw/misc/trr_common_texture.pac
+add hyper_look_stars/raw/EventCommon.pac
+
+add open_hyper/raw/character/playercommon.pac
+add open_hyper/raw/character/sonic.pac
+add open_hyper/raw/character/sonic_birthday.pac
+add open_hyper/raw/character/sonic_crown.pac
+add open_hyper/raw/dlc/dlccrm/dlccrm.pac
+add open_hyper/raw/dlc/dlcddx/dlcddx.pac
+add open_hyper/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add open_hyper/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
+add open_hyper/raw/dlc/dlcxmas/dlcxmas.pac
+add open_hyper/raw/general/resident_general/se_rangers_sys.acb
+add open_hyper/raw/miniboss/flyer01.pac
+add open_hyper/raw/miniboss/warship01.pac
+add open_hyper/raw/sound/sonic_sound/se_rangers_player_sonic.acb
+add open_hyper/raw/sound/sonic_sound/sonic_sound.level
+add open_hyper/raw/text/text_common_en.pac
+add open_hyper/raw/ui/ui_common.pac
+add open_hyper/raw/EffectCommon.pac
+
+add open_hyper_cc/raw/character/playercommon.pac
+add open_hyper_cc/raw/character/sonic.pac
+add open_hyper_cc/raw/character/sonic_birthday.pac
+add open_hyper_cc/raw/character/sonic_crown.pac
+add open_hyper_cc/raw/dlc/dlccrm/dlccrm.pac
+add open_hyper_cc/raw/dlc/dlcddx/dlcddx.pac
+add open_hyper_cc/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add open_hyper_cc/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
+add open_hyper_cc/raw/dlc/dlcxmas/dlcxmas.pac
+add open_hyper_cc/raw/general/resident_general/se_rangers_sys.acb
+add open_hyper_cc/raw/miniboss/flyer01.pac
+add open_hyper_cc/raw/miniboss/warship01.pac
+add open_hyper_cc/raw/sound/sonic_sound/se_rangers_player_sonic.acb
+add open_hyper_cc/raw/sound/sonic_sound/sonic_sound.level
+add open_hyper_cc/raw/text/text_common_en.pac
+add open_hyper_cc/raw/ui/ui_common.pac
+add open_hyper_cc/raw/EffectCommon.pac
+
+add open_super/raw/character/playercommon.pac
+add open_super/raw/character/sonic.pac
+add open_super/raw/character/sonic_birthday.pac
+add open_super/raw/character/sonic_crown.pac
+add open_super/raw/dlc/dlccrm/dlccrm.pac
+add open_super/raw/dlc/dlcddx/dlcddx.pac
+add open_super/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add open_super/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
+add open_super/raw/dlc/dlcxmas/dlcxmas.pac
+add open_super/raw/general/resident_general/se_rangers_sys.acb
+add open_super/raw/miniboss/flyer01.pac
+add open_super/raw/miniboss/warship01.pac
+add open_super/raw/sound/sonic_sound/se_rangers_player_sonic.acb
+add open_super/raw/sound/sonic_sound/sonic_sound.level
+add open_super/raw/text/text_common_en.pac
+add open_super/raw/ui/ui_common.pac
+add open_super/raw/EffectCommon.pac
+
+add phys_off_hyper/raw/character/playercommon.pac
+add phys_off_super/raw/character/playercommon.pac
+
+add raw/NeedleShader2.pac
+add raw/boss/knight01.pac
+
+add super_aura/raw/EventCommon.pac
+
+add codes.hmm
+add config.json
 add options.json
 add mod.ini
+add transformation.CT
