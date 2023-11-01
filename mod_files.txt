@@ -19,7 +19,7 @@ delete code3.hmm
 
 delete ./
 
-add ./"Super_Hyper_Sonic_Ultimate_-_Final_Horizon_Update"
+add ./Super_Hyper_Sonic_Ultimate_-_Final_Horizon_Update
 
 add boss_hyper/raw/character/supersonic.pac
 add boss_hyper/raw/event/scene/bo1xxx.pac
