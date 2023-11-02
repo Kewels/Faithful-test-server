@@ -1,4 +1,7 @@
-delete aura_color
+delete aura_color/
+delete aura_cyan/
+delete aura_ss/
+delete aura_stars/
 
 delete boss_c_hyper_adventure/
 
