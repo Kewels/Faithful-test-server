@@ -1,3 +1,5 @@
+delete aura_color
+
 delete boss_c_hyper_adventure/
 
 delete boss_c_hyper_frontiers/
