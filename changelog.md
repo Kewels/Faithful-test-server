@@ -1,4 +1,5 @@
 ## Super/Hyper Sonic Ultimate - Final Horizon Update
+- Added support for update 3
 - Updated transformation script
 - New trainer
 - Base flight mode
