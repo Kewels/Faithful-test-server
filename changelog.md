@@ -7,6 +7,70 @@
 - Color changing Hyper Sonic
 - Minor adjustments to open zone control
 - Other stuff
+## Super/Hyper Sonic Truly Faithful 3.1.5
+- Removed problematic files that prevented the game from loading past the title screen.
+
+## Super/Hyper Sonic Truly Faithful 3.1.4
+- Fixed addtional oversights with the cyloop
+
+- Added back dynamic camera angles to most super attacks now that they can be toggled in the game settings.
+
+- Minor adjustments to the stomp super attack.
+
+- (Hopefully) fixed an issue where you would not be able to progress through the Giganto boss fight while using the normal Super Sonic model for the open world.
+
+## Super/Hyper Sonic Truly Faithful 3.1.3
+- Fixed cyloop not showing up for Hyper Sonic... Again...
+
+- Fixed an issue where Hyper Sonic's stomp couldn't defeat the spring enemies in Ares.
+
+## Super/Hyper Sonic Truly Faithful 3.1.2
+- RT+A created a control conflict with jumping.  Y coordinate reset is now mapped to RT+A+left thumbstick click.
+
+## Super/Hyper Sonic Truly Faithful 3.1.1
+- Changed vertical button combination that set Sonic's vertical height to 0 from LT+RT to RT+A as to avoid conflicts with the spin dash.
+
+## Super/Hyper Sonic Truly Faithful 3.1
+- Added support for version 1.30.
+
+- Added support for the spin dash.
+
+- Added support for the Sonic birthday costume.
+
+- Updated transformation script for use with version 1.30.
+
+- Other minor adjustments
+
+## Super/Hyper Sonic Truly Faithful 3.0
+- A Cheat Engine script to transform into the real Super/Hyper Sonic is now included.  Read transform-readme.txt for controls and details.
+
+- The colorful aura for Hyper Sonic has been updated.  There is also a new star aura for Hyper Sonic.
+
+- Added A LOT of custom animations.
+
+- Quills now move for most models.  Any don't don't move have clipping issues that I plan on sorting out later.
+
+- Overall updated visuals for Super and Hyper Sonic.  All models have an outline aura and base form Super Sonic now has an aura when the Phantom Rush is enabled.
+
+- Physics and combat has been completely revamped.  Special moves are now overall quicker for both Super and Hyper Sonic.  Hyper Sonic's speed has also been increased a bit.
+
+- Eye customization is now possible within HMM, so no more running a batch script to change Hyper Sonic's eye color.
+
+- I implemented some HMM codes to help enhance gameplay.  These codes can also be turned off entirely if you prefer.
+
+- Flying no longer has a pre-determined horizontal and vertical speed.  Flight speed is now determined based on your air momentum while moving through the air.
+
+- Cyberspace stages should now feel better and be much more playable.
+
+- Rail grinding is now faster in order to compliment the updated flight.
+
+- Base Sonic and Super Sonic have been added back into Faithful.  This also depreciates Hyper Sonic Faithful standalone, which will no longer be updated.
+
+- Improved Cyberspace physics.  These stages should be more fun to play now.
+
+- Super Sonic is now invincible.
+
+- Super Sonic can now attract rings.
 
 ## Super/Hyper Sonic Faithful 2.6.9-rev5
 - Fixes an oversight that made the cyloop color blue when custom physics are turned off.  Thank you Sandpie for pointing this out! :)
