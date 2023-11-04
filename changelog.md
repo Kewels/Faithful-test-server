@@ -2,7 +2,7 @@
 - Added support for update 3
 - Updated transformation script
 - New trainer
-- Base flight mode
+- Base flight mode (Check readme)
 - Hyper Sonic in open zone
 - Color changing Hyper Sonic
 - Minor adjustments to open zone control
