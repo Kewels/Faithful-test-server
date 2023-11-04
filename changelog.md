@@ -1,3 +1,6 @@
+## Super/Hyper Sonic Ultimate - Final Horizon Update Rev 1
+- Minor HMM updates
+
 ## Super/Hyper Sonic Ultimate - Final Horizon Update
 - Added support for update 3
 - Updated transformation script
