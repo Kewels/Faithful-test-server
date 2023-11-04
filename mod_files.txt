@@ -203,6 +203,7 @@ add raw/boss/knight01.pac
 add super_aura/raw/EventCommon.pac
 
 add codes.hmm
+add readme.txt
 add config.json
 add mod.ini
 add transformation.CT
