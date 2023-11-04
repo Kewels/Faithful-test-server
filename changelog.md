@@ -1,5 +1,12 @@
 ## Super/Hyper Sonic Ultimate - Final Horizon Update
-- Many things
+- Added support for update 3
+- Updated transformation script
+- New trainer
+- Base flight mode (Check readme)
+- Hyper Sonic in open zone
+- Color changing Hyper Sonic
+- Minor adjustments to open zone control
+- Other stuff
 
 ## Super/Hyper Sonic Faithful 2.6.9-rev5
 - Fixes an oversight that made the cyloop color blue when custom physics are turned off.  Thank you Sandpie for pointing this out! :)
