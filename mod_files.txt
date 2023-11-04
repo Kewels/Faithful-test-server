@@ -202,6 +202,5 @@ add super_aura/raw/EventCommon.pac
 
 add codes.hmm
 add config.json
-add options.json
 add mod.ini
 add transformation.CT
