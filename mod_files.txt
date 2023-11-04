@@ -1,3 +1,5 @@
+delete options.json
+
 delete aura_color/
 delete aura_cyan/
 delete aura_ss/
