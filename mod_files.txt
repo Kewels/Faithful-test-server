@@ -5,6 +5,8 @@ delete aura_cyan/
 delete aura_ss/
 delete aura_stars/
 
+delete boss_hyper_2_cyan/
+
 delete boss_c_hyper_adventure/
 
 delete boss_c_hyper_frontiers/
@@ -21,7 +23,7 @@ delete boss_soap_super_frontiers/
 
 delete boss_soap_hyper_frontiers/
 
-delete boss_soap_hyper_adventure/
+delete soap_boss_hyper_adventure/
 
 delete open_super/
 
@@ -197,6 +199,8 @@ add open_super/raw/EffectCommon.pac
 add phys_off_hyper/raw/character/playercommon.pac
 add phys_off_super/raw/character/playercommon.pac
 
+add realtime/raw/event/scene/bo6xxx.pac
+
 add raw/NeedleShader2.pac
 add raw/boss/knight01.pac
 
@@ -207,3 +211,4 @@ add readme.txt
 add config.json
 add mod.ini
 add transformation.CT
+delete Super_Hyper_Sonic_Ultimate_Trainer.EXE
