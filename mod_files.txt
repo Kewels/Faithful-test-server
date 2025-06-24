@@ -78,6 +78,7 @@ delete phys_cyber_space_off/raw/character/playercommon.pac
 
 delete Transformation.CT
 
+delete final_hyper_2/raw/character/playercommon.pac
 
 delete boss_hyper_adventure
 delete boss_hyper_frontiers
@@ -119,9 +120,9 @@ add boss_hyper_cc/raw/event/scene/zev_knight_sonic_damage01.pac
 add boss_hyper_cc/raw/event/scene/zev_knight_sonic_sp01.pac
 add boss_hyper_cc/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
 add boss_hyper_cc/raw/event/scene/zev_rfl_shoot02.pac
+
 add boss_super/raw/character/supersonic.pac
 
-add final_hyper_2/raw/character/playercommon.pac
 add final_hyper_2/raw/character/supersonic2.pac
 
 add final_hyper_2_cc/raw/character/supersonic2.pac
